@@ -10,4 +10,4 @@ Vue.config.productionTip = false;
 new Vue({
   render: (h) => h(App),
 }).$mount("#app");
-//new add
+//new add  new wire
